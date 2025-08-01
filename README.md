@@ -4,7 +4,7 @@ Fatime Useini
 I'm passionate about leveraging technology and clean energy solutions for a more sustainable future. In May 2025, I started my role as a AI/ML Fellow with Break through Tech.
 
 🎓 Computer Science Student at Binghamton University  
-💻 Interests: Web Development, Machine Learning, and Graphic Design
+💻 Interests: Web Development, Machine Learning, and Graphic Design  
 📫 Reach me: fuseini1@binghamton.edu | linkedin.com/in/fatime-useini  
 
 ---
