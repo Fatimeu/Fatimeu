@@ -22,8 +22,7 @@ I'm passionate about leveraging technology and clean energy solutions for a more
 | 📚 [Sentiment Analysis of Book Reviews](https://github.com/Fatimeu/My-eCornell-Portfolio) | Predicts if a book review is positive or negative using TF-IDF + Neural Network | Python |
 
 
----
 
-📫 Connect with Me  
+## 📫 Connect with Me  
 LinkedIn: linkedin.com/in/fatime-useini    
 Email: fuseini1@binghamton.edu  
