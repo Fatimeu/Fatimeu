@@ -16,6 +16,6 @@ Technical Skills
 
 ---
 
-📫 Connect with Me
-LinkedIn: linkedin.com/in/fatime-useini  
-Email: fuseini1@binghamton.edu
+📫 Connect with Me  
+LinkedIn: linkedin.com/in/fatime-useini    
+Email: fuseini1@binghamton.edu  
